@@ -1,3 +1,4 @@
 code owners.. 
 what the rush buds
 
+it is a protected branch buddy.. you cant commit anything. 
